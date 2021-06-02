@@ -22,10 +22,7 @@ https://github.com/mechatrax/ansible-mechatrax-playbook
 [初期ログイン情報カード](../../../raw/master/os/login.pdf)
 
 ## リリースノート
-4GPi 用 microSD カードにインストールされている OS イメージのリリースノートを公開しています。
-* ### 4gpi-buster-lite-20210330
-  test
-  
+4GPi 用 microSD カードにインストールされている OS イメージのリリースノートを公開しています。 
 * ### 4gpi-buster-lite-20210327
   20210327 の記載があるものは本リリースの OS イメージがインストールされています。  
   詳細は、[4gpi-buster-lite-20210327.md](./4gpi-buster-lite-20210327.md) を参照してください。
