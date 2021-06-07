@@ -23,6 +23,9 @@ https://github.com/mechatrax/ansible-mechatrax-playbook
 
 ## リリースノート
 4GPi 用 microSD カードにインストールされている OS イメージのリリースノートを公開しています。 
+* ### 4gpi-buster-lite-20210410
+  test
+
 * ### 4gpi-buster-lite-20210330
   test
 
